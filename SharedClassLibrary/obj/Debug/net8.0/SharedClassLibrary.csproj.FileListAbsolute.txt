@@ -1,0 +1,12 @@
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.deps.json
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.dll
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.pdb
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfo.cs
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.sourcelink.json
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.dll
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\refint\SharedClassLibrary.dll
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.pdb
+C:\Users\Gaurav\source\repos\DotNetCoreJwtApis\SharedClassLibrary\obj\Debug\net8.0\ref\SharedClassLibrary.dll
